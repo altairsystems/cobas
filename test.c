@@ -1,6 +1,6 @@
 void f()
 {
-    printf("hello");
+    printf("hello world!");
     hello
     char *p;
     *p = 0;
